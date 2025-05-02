@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // رابط الـ API
-const API_BASE_URL = 'https://localhost:7237/api';
+const API_BASE_URL = 'https://glownest-api-0729.onrender.com/api';
 
 // تعريف نوع البيانات اللي بنرسلها
 export interface OrderData {
